@@ -1,0 +1,100 @@
+/*dando estilo a todo:*/
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html{
+    background: #c0c0c0;
+}
+/*.............................*/
+
+
+/*dando tamaño al body:*/
+body{
+
+    width: 793.7px;
+    height: 335.9px;
+    background: #F2BD99;
+    margin: auto;
+}
+/*.............................*/
+
+
+/*Trabajando con header:*/
+header{
+
+    width: 793.7px;
+    height: 335.9px;
+    background: #F2BD99;
+    margin: auto;
+}
+
+#regist{
+    text-align: center;
+    margin: px 400px 0px 0px 0px;
+}
+#regis{
+    padding: 130px 0px 0px 0px;
+    font-size: 35px;
+}
+/*.............................*/
+
+
+footer{
+
+    width: 793.7px;
+    height:81.0px;
+    background: #cddadd;
+
+}
+
+/*dando estilo a la footerizq:*/
+#footerizq{
+    width: 396.8px;
+    height:81.0px;
+    background: #F2BD99;
+    float: left;
+}
+#formu{
+    width: 180px;
+    height: 35PX;
+    border-radius: 10px;
+    background-color: #493d3b;
+    margin: 2px 0px 0px 100px;
+    text-align: center;
+}
+#formu:hover{
+    background-color: transparent;
+    border: 2px solid #ffffff;
+    color: #E3DD9D;
+}
+#form{
+    color: #ffffff;
+    margin-top: 15px;
+    text-decoration: none;
+    margin: 0px 0px 0px 1px;
+}
+
+
+/*dando estilo a la footerdere*/
+#footerdere{
+    width: 396.8px;
+    height:81.0px;
+    background: #F2BD99;
+    float: left;
+
+}
+.p7{
+    text-align: center;
+}
+#im3{
+    width: 35px;
+    height: 35px;
+}
+.p8{
+    text-align: center;
+}
+
+/*.............................*/
