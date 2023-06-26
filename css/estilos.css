@@ -1,0 +1,271 @@
+/*dando estilo a todo:*/
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html{
+    background: #c0c0c0;
+}
+/*.............................*/
+
+/*dando tamaño al body:*/
+body{
+
+    height: 1122.5px;
+    width: 793.7px;
+    background: #546151;
+    margin: auto;
+}
+/*.............................*/
+
+/*Trabajando con header:*/
+header{
+
+    width: 793.7px;
+    height: 335.9px;
+    background: #00c230;
+    margin: auto;
+}
+
+#foto{
+    width: 342.3px;
+    height: 335.9px;
+    background: #F2BD99;
+    float: left;
+
+}
+
+#fot{
+    background: #E8CFC1;
+    width: 342.3px;
+    height: 270.9px;
+    margin-top: 40px;
+    
+}
+
+#colores{
+    width: 320px;
+    height: 320px;
+    border-radius: 100%;
+    margin: 0px 0px 0px 10px;
+}
+
+#im1{
+    width: 305px;
+    height: 305px;
+    border-radius: 100%;
+    margin: -25px 0px 0px 7px;
+    border: 8px solid #493d3b;
+} 
+
+
+
+#nombres{
+    width: 451.3px;
+    height: 335.9px;
+    background:#ffffff;
+    float: left;
+}
+#nombres1{
+    margin-top: 40px;
+    background: #E8CFC1;
+    width: 451.3px;
+    height: 270.9px;
+}
+#nomb2{
+    font-size: 75px;
+    padding: 30px;
+    margin: 0px 0px 0px -15px;
+
+
+}
+
+#nomb3{
+    font-size: 25px;
+    margin: -30px 0px 0px 20px;
+}
+
+/*.............................*/
+
+/*Trabajando con main:*/
+main{
+
+    width: 793.7px;
+    height: 704.4px;
+    background: #556164;
+}
+#lado_izquierdo{
+    width: 342.3px;
+    height: 704.4px;
+    background: #F2BD99;
+    float: left;
+
+}
+#contenedor1{
+    padding:2px;
+    margin: 1px;
+
+}
+
+
+.sobremi{
+    padding: 40px 0px 0px 0px;
+}
+
+#sobre{
+    font-size: 34px;
+    margin: 0px 0px 0px 15px;
+}
+
+.parrafos{
+    margin-top: 40px;
+    line-height: 24px;
+}
+#parraf{
+    font-size: 16px;
+    margin: 7px 0px 0px 15px;
+}
+
+
+.contacto{
+	margin-top: 40px;
+}
+
+.contac{
+	font-size: 34px;
+    margin: 0px 0px 0px 15px;
+}
+
+#iconconta{
+    padding: 35px 0px 0px 0px;
+}
+.p0{
+	font-size: 16px;
+    margin: 0px 0px 0px 15px;
+    word-spacing: 25px;
+    line-height: 50px;
+}
+#span{
+    word-spacing: -25px;
+}
+
+.im{
+    width: 30px;
+    height: 30px;
+}
+/*.............................*/
+
+
+/*Trabajando con article:*/
+#lado_derecho{
+
+    width: 451.3px;
+    height: 704.4px;
+    background: #E3DD9D;
+    float: left;
+}
+#contenedor2{
+    padding: 0px;
+}
+
+.columna1{
+	margin-top: 0px;
+}
+.estud{
+	font-size: 25px;
+    margin: 0px 0px 0px 15px;
+}
+#discrip1{
+    margin-top: -15px;
+}
+.p1{
+	font-size: 16px;
+    margin: 6px 0px 0px 15px;
+    line-height: 25px;
+}
+.p1 span{
+	font-size: 16px;
+}
+
+
+.columna2{
+	margin-top: 0px;
+}
+.idio{
+    font-size: 25px;
+    margin: 11px 0px 0px 15px;
+}
+#discrip2{
+    margin-top: 10px;
+}
+.p2{
+	font-size: 16px;
+    margin: 6px 0px 0px 15px;
+    line-height: 25px;
+}
+
+#columna3{
+	margin-top: 0px;
+}
+.herram3{
+    font-size: 25px;
+    margin: 11px 0px 0px 15px;
+}
+#discrip3{
+    margin-top: 10px;
+}
+.p3{
+	font-size: 16px;
+    margin: 6px 0px 0px 15px;
+    line-height: 25px;
+}
+
+#columna4{
+	margin-top: 0px;
+}
+.exper4{
+    font-size: 25px;
+    margin: 11px 0px 0px 15px;
+}
+
+#discrip4{
+    margin-top: 10px;
+}
+.p4{
+	font-size: 16px;
+    margin: 6px 0px 0px 15px;
+    line-height: 18px;
+}
+.p4 span{
+	font-size: 14px;
+}
+
+
+
+
+/*.............................*/
+
+
+/*Trabajando con main:*/
+footer{
+
+    width: 793.7px;
+    height:81.0px;
+    background: #cddadd;
+
+}
+
+.p7{
+    text-align: center;
+}
+#im3{
+    width: 35px;
+    height: 35px;
+}
+.p8{
+    text-align: center;
+}
+
+/*.............................*/
